@@ -1,0 +1,35 @@
+# Python / Virtualenv
+venv/
+**/venv/
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Runtime media & job directories
+uploads/
+**/uploads/
+outputs/
+**/outputs/
+work/
+**/work/
+frames/
+**/frames/
+scratch/
+**/scratch/
+
+# Local test / archive / large media files
+thumbnails/candidates/
+**/thumbnails/candidates/
+**/thumbnails/ep2_*
+test.mp3
+*.zip
+*.mkv
+*.mp4
+*.mp3
+*.wav
+*.srt
+
+# OS / IDE
+.DS_Store
+Thumbs.db
