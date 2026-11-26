@@ -3,5 +3,5 @@ services:
     name: video-condenser
     runtime: docker
     rootDir: video_condenser
-    plan: starter
+    plan: free
     autoDeploy: true
